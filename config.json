@@ -1,0 +1,38 @@
+{
+    "algo": "cryptonight",
+    "api": {
+        "port": 0,
+        "access-token": null,
+        "id": null,
+        "worker-id": null,
+        "ipv6": false,
+        "restricted": true
+    },
+    "background": false,
+    "colors": true,
+    "cuda-bfactor": null,
+    "cuda-bsleep": null,
+    "cuda-max-threads": 64,
+    "donate-level": 0,
+    "log-file": null,
+    "pools": [
+        {
+            "url": "sh0.xmr.skypool.org:7777",
+            "user": "44DhRxCx47SBEDAK67j4uTg9xtDSCG8VjLYMrGPz7zgg7NK8pEepmmxe5H5yoYs5qxLYVKRGfK7aECWcSWzmkQG3UbywVi7.mypc1",
+            "pass": "x",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": true,
+            "variant": -1,
+            "tls": false,
+            "tls-fingerprint": null
+        }
+    ],
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "threads": null,
+    "user-agent": null,
+    "syslog": false,
+    "watch": false
+}
